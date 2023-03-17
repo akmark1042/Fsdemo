@@ -1,5 +1,5 @@
 [<AutoOpen>]
-module BizLayer.Types
+module TodoList.Core.Types
 
 open System
 

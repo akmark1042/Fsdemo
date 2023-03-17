@@ -1,4 +1,4 @@
-module Fsdemo.Types
+module TodoList.CSV.Types
 
 open System
 

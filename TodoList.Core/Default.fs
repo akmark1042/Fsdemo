@@ -1,5 +1,5 @@
 ﻿[<AutoOpen>]
-module BizLayer.Default
+module TodoList.Core.Default
 
 let addToDo (store: IToDoStore) (description: string) =
     store.AddToDo description

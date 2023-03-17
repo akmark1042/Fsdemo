@@ -1,7 +1,8 @@
-module Fsdemo.TodoStore
+module TodoList.CSV.TodoStore
 
 open System
-open BizLayer
+
+open TodoList.Core
 
 type DefaultToDoStore (initialItems:ToDoItem list) =
     let mutable items = initialItems

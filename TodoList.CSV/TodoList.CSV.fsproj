@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-      <ProjectReference Include="..\BizLayer\BizLayer.fsproj" />
+      <ProjectReference Include="..\TodoList.Core\TodoList.Core.fsproj" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,5 @@
 [<AutoOpen>]
-module BizLayer.Interfaces
+module TodoList.Core.Interfaces
 
 type IToDoStore = 
     abstract AddToDo: string -> IncompleteToDoItem

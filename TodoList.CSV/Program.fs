@@ -1,9 +1,11 @@
-﻿module Fsdemo.Program
+﻿module TodoList.CSV.Program
 
 open System
-open Fsdemo.Types
-open BizLayer
-open TodoStore
+
+open TodoList.Core
+
+open TodoList.CSV.TodoStore
+open TodoList.CSV.Types
 
 let printItem i item=
     printfn "\t%i. [%c] %s" i (if ToDoItem.isComplete item then 'x' else ' ') item.Description
