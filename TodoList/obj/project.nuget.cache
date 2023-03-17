@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vV66I5qcNAsEQNo35uGWB2/bveDwvEM02M67lJ692rDpio7qLqivinH8wxukf4WLsAWkxGWq5NlLIkx9dBAOFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgress\\source\\repos\\Fsdemo\\todolist\\Fsdemo.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgress\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

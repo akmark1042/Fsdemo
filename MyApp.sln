@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fsdemo", "TodoList\Fsdemo.fsproj", "{02AEEE88-46AF-418C-808D-6B44CC1C8C4C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BizLayer", "BizLayer\BizLayer.fsproj", "{FD08ECAF-88A2-4445-973B-89446E2D31D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AEEE88-46AF-418C-808D-6B44CC1C8C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AEEE88-46AF-418C-808D-6B44CC1C8C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AEEE88-46AF-418C-808D-6B44CC1C8C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AEEE88-46AF-418C-808D-6B44CC1C8C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD08ECAF-88A2-4445-973B-89446E2D31D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD08ECAF-88A2-4445-973B-89446E2D31D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD08ECAF-88A2-4445-973B-89446E2D31D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD08ECAF-88A2-4445-973B-89446E2D31D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

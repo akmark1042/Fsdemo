@@ -1,0 +1,13 @@
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\bin\Debug\net7.0\BizLayer.deps.json
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\bin\Debug\net7.0\BizLayer.dll
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\bin\Debug\net7.0\BizLayer.pdb
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\bin\Debug\net7.0\BizLayer.xml
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.fsproj.AssemblyReference.cache
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.AssemblyInfoInputs.cache
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.AssemblyInfo.fs
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.fsproj.CoreCompileInputs.cache
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.dll
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\refint\BizLayer.dll
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.xml
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\BizLayer.pdb
+C:\Users\mgress\source\repos\Fsdemo\BizLayer\obj\Debug\net7.0\ref\BizLayer.dll
